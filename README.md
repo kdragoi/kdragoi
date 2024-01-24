@@ -2,7 +2,7 @@
 ### <div align="center"> A keen Data Engineer from London, UK </div>
 
 
-<a href="https://www.theaicore.com/"> <img src="AiCore.png" alt="AiCore" width="15" height="15"> </a> Recent data engineering program graduate from [AiCore](https://www.theaicore.com/) 
+<a href="https://www.theaicore.com/"><img src="AiCore.png" alt="AiCore" width="15" height="15"></a> Recent data engineering program graduate from [AiCore](https://www.theaicore.com/) 
  
  🧬 Recent Biological Sciences graduate with First Class Honors
 
@@ -17,8 +17,8 @@ Eager learner committed to contributing to innovative solutions
 Seeking to launch a career in data engineering to leverage my technical acumen and passion for problem-solving.
 
 📫 How to reach me:
-- email: 
-- linkedin: 
+- Email: dragoi_k@hotmail.com
+- LinkedIn: <a href="https://www.theaicore.com/"><img src="AiCore.png" alt="AiCore" width="15" height="15"></a> 
 
 ![image](https://github.com/kdragoi/kdragoi/code.gif)
 
