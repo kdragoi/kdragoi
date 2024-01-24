@@ -2,7 +2,7 @@
 ### <div align="center"> A keen Data Engineer from London, UK </div>
 
 
-<img src="AiCore.png" alt="AiCore" width="15" height="15"> Recent data engineering program graduate from [AiCore](https://www.theaicore.com/) 
+<a href="https://www.theaicore.com/"> <img src="AiCore.png" alt="AiCore" width="15" height="15"> </a> Recent data engineering program graduate from [AiCore](https://www.theaicore.com/) 
  
  🧬 Recent Biological Sciences graduate with First Class Honors
 
