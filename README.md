@@ -18,9 +18,8 @@ Seeking to launch a career in data engineering to leverage my technical acumen a
 
 📫 How to reach me:
 - Email: dragoi_k@hotmail.com
-- LinkedIn: <a href="https://www.theaicore.com/"><img src="AiCore.png" alt="AiCore" width="15" height="15"></a> 
+- LinkedIn: [www.linkedin.com/in/kay-dragoi-88b190155](www.linkedin.com/in/kay-dragoi-88b190155) <a href="www.linkedin.com/in/kay-dragoi-88b190155"><img src="LinkedIn.png" alt="AiCore" width="15" height="15"></a> 
 
-![image](https://github.com/kdragoi/kdragoi/code.gif)
 
 
 
