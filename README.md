@@ -2,19 +2,23 @@
 ### <div align="center"> A keen Data Engineer from London, UK </div>
 
 
-![AiCore](https://github.com/kdragoi/kdragoi/AiCore.png) Recent data engineering program graduate from [AiCore](https://www.theaicore.com/) 
+<img src="AiCore.png" alt="AiCore" width="15" height="15"> Recent data engineering program graduate from [AiCore](https://www.theaicore.com/) 
  
  🧬 Recent Biological Sciences graduate with First Class Honors
 
 Detail-oriented data engineer with conpetency in designing and automating data pipelines for ETL/ELT processes.
-Proficient in data ingestion, processing and database management systems. 
-Experienced in Cloud computing, AWS, and handling both batch and real-time data streams using Kinesis and Databricks. 
-Eager learner committed to contributing to innovative solutions
-seeking to launch a career in data engineering to leverage my technical acumen and passion for problem-solving.
 
-How to reach me:
-email:
-linkedin: 
+Proficient in data ingestion, processing and database management systems. 
+
+Experienced in Cloud computing, AWS, and handling both batch and real-time data streams using Kinesis and Databricks. 
+
+Eager learner committed to contributing to innovative solutions
+
+Seeking to launch a career in data engineering to leverage my technical acumen and passion for problem-solving.
+
+📫 How to reach me:
+- email: 
+- linkedin: 
 
 ![image](https://github.com/kdragoi/kdragoi/code.gif)
 
