@@ -1,7 +1,22 @@
 ## <div align="center"> Hi there 👋 I'm Kay Dragoi </div>
 ### <div align="center"> A keen Data Engineer from London, UK </div>
 
-Recent Biological Sciences graduate and keen, detail-oriented data engineer with proficiency in designing and automating data pipelines for ETL/ELT processes. Proficient in data ingestion, processing and database management systems. Experienced in Cloud computing, AWS, and handling both batch and real-time data streams using Kinesis and Databricks. Eager learner committed to contributing to innovative solutions, seeking to launch a career in data engineering to leverage my technical acumen and passion for problem-solving.![image](https://github.com/kdragoi/kdragoi/assets/78568980/0a1049b9-0fb2-49e5-b084-8f4c6ad5746b)
+
+
+Recent Biological Sciences graduate with First Class Honors
+
+Detail-oriented data engineer with conpetency in designing and automating data pipelines for ETL/ELT processes.
+Proficient in data ingestion, processing and database management systems. 
+Experienced in Cloud computing, AWS, and handling both batch and real-time data streams using Kinesis and Databricks. 
+Eager learner committed to contributing to innovative solutions
+seeking to launch a career in data engineering to leverage my technical acumen and passion for problem-solving.
+
+How to reach me:
+email:
+linkedin: 
+
+![image](https://github.com/kdragoi/kdragoi/code.gif)
+
 
 
 
