@@ -2,8 +2,9 @@
 ### <div align="center"> A keen Data Engineer from London, UK </div>
 
 
-
-Recent Biological Sciences graduate with First Class Honors
+![AiCore](https://github.com/kdragoi/kdragoi/AiCore.png) Recent data engineering program graduate from [AiCore](https://www.theaicore.com/) 
+ 
+ 🧬 Recent Biological Sciences graduate with First Class Honors
 
 Detail-oriented data engineer with conpetency in designing and automating data pipelines for ETL/ELT processes.
 Proficient in data ingestion, processing and database management systems. 
